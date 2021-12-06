@@ -1,0 +1,212 @@
+body{
+    margin-top: 80px;
+    background-color: #89f060;
+    color: #14261A;
+}
+
+html,body{
+    height: 100%;
+}
+
+.navbar{
+    background-color: #1E452C;
+    color: white;
+
+}
+
+.navbar-brand img{
+    max-width: 200px;
+}
+
+.logar{
+    text-align: center;
+    padding: 80px;
+}
+#label{
+    float: left;
+}
+
+.btn{
+    float: right;
+    background-color: #217336;
+}
+
+#criarconta{
+    color:#217336;
+    margin-top: 80px;
+    text-decoration: underline;
+}
+
+a{
+    color: inherit;
+}
+
+a:hover{
+    color: #1E452C;
+}
+
+/*-----------------------*/
+
+
+.invisible{
+    display: none;
+    visibility: hidden;
+}
+
+.btn:hover{
+    background-color: #1E452C;
+}
+
+#infoinit{
+    color: white;
+    font-family: 'Alata',sans-serif;
+    padding: 40px;
+    margin-top: 85px;
+    font-size: 35px;
+
+}
+
+#init{
+    background: #89f060;
+    background: linear-gradient(0deg, #89f060 0%, rgba(100,147,68,1) 15%, rgba(66,109,56,1) 24%, rgba(32,71,45,1) 52%);
+    padding-bottom: 10px;
+
+}
+
+#imagemi{
+    padding-left: 50px;
+    width: min-content;
+}
+
+#appsinit{
+    padding: 15px;
+}
+
+#itemsdocar{
+    padding: 40px;
+}
+
+.carousel{
+    margin-left: 30px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.carousel-control-prev{
+    padding-right: 150px;
+}
+
+.carousel-control-next{
+    padding-left: 150px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.card-body{
+    text-align: center;
+    background-color: #7ada4e;
+    color: #1E452C;
+    outline: none;
+}
+
+.card-body:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-text, .card-title{
+    margin-top: 10px;
+}
+
+/*-----------------------*/
+
+.appinfo_apppage{
+    text-align: center;
+}
+.appinfo_apppage>h2,.appinfo_apppage>p{
+    padding: 4px;
+}
+
+iframe{
+    padding: 15px;
+}
+
+#filtros{
+    padding: 40px;
+    background-color: #217336;
+    color: white;
+    min-height: 100vh;
+    min-width: min-content;
+}
+
+#labelfil{
+    padding: 0px;
+
+}
+
+.form-select, #pesquisa_app{
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+
+#app{
+    padding: 40px;
+    padding-bottom: 0px;
+}
+
+#dropdownMenuButton{
+    color: black;
+    background-color: white;
+}
+
+#nota{
+    margin-left: 30px;
+    color: white;
+    background-color: #217336;
+    max-width: max-content;
+    border-radius: 50px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#infoapli{
+    padding: 20px;
+    padding-left: 0px;
+}
+
+
+#linha-horizontal {
+    width: 100%;
+    margin-top: 5px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+#commentarea>textarea{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+#commentarea>.btn-success{
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100px;
+}
+
+@media (max-width:500px){
+    #filtros{
+        height: max-content;
+    }
+
+    .filtrosmenu{
+        float: left;
+    }
+
+    #imageminit{
+        display: none;
+        visibility: hidden;
+    }
+
+}

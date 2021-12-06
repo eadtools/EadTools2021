@@ -1,0 +1,223 @@
+{
+  "aplicativos": [
+    {
+      "id": 1,
+      "Nome": "Microsoft Teams",
+      "Nota": 7,
+      "Categoria": [" ","Videochamada", "Grupo", "Reunioes"],
+      "Dispositivo": [ " ",
+        "Computador",
+        "Smartphone",
+        "Navegador"
+      ],
+      "Pago": [" ","Gratuito","PVP","Pago"
+      ],
+      "Descrição": "Microsoft Teams é uma plataforma unificada de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/E2ipW_6eW7I' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        1,
+        2,
+        3
+      ],
+      "local": "https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software",
+      "dica": "O Microsoft Teams é muito útil para a divisão de grupos, contando com a ferramenta de dividir a turma em grupos numa mesma sala e monitorar cada um.<br>Compartilhe sua opinião e divirta-se com sua equipe. <br>Envie GIFs, figurinhas e emojis em um chat em grupo ou em mensagens individuais. <br>Passe instantaneamente do chat em grupo para a videoconferência com o toque de um botão. <br>Equipes de duas ou dez mil pessoas podem se reunir em um só local de praticamente qualquer lugar. <br>Faça e receba chamadas diretamente no Microsoft Teams com recursos avançados como chamadas em grupo, Caixa postal na Nuvem e transferências de chamadas. <br>Encontre, compartilhe e edite arquivos em tempo real usando aplicativos conhecidos como o Word, o PowerPoint e o Excel no Microsoft Teams.",
+      "dicas:": "O Microsoft Teams é muito útil para a divisão de grupos, contando com a ferramenta de dividir a turma em grupos numa mesma sala e monitorar cada um.",
+      "comentarios": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "Nome": "Google Classroom",
+      "Nota": 6,
+      "Categoria": [" ","Atividades", "Grupo", "Reunioes"],
+      "Dispositivo": [" ",
+        "Navegador",
+        "Smartphone"
+      ],
+      "Pago": [" ","Gratuito","PVP","Pago"
+      ],
+      "Descrição": "Google Classroom é um sistema de gerenciamento de conteúdo para escolas que procuram simplificar a criação, a distribuição e a avaliação de trabalhos. Ele é um recurso do Google Apps para a área de educação.",
+      "img": "https://www.makerzine.com.br/wp-content/uploads/2019/08/google_classroom_icon-1.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/7kCsZ-nOknk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        10,
+        11,
+        12
+      ],
+      "local": "https://classroom.google.com/",
+      "dica": "Ao criar uma nova classe, você pode adicionar detalhes como nome, descrição e uma imagem de cabeçalho (modelo de tema) para personalização. Você pode selecionar entre vários temas padrão ou fazer upload da foto no PC. Você ficará bem com os padrões, pois eles são divididos em categorias como Matemática e Ciências, Artes, Esportes, História e muito mais.<br>Ao distribuir atribuições, convém fornecer material de recursos para o projeto. Os professores podem ir para Criar> Material, adicionar título, descrição, fornecer arquivos de recursos do Google Docs, Form, YouTube ou Web. Selecione a categoria e toque no botão publicar na parte superior.<br>O Google Classroom adicionou a capacidade de agendar tarefas com antecedência. Você pode criar tarefas, adicionar detalhes relevantes, comentários, notas e publicá-las ou agendá-las por um tempo determinado. Você poderá ver a tarefa agendada com nome e hora em uma seção esmaecida no menu Classwork.<br>Como você já deve saber, pode-se definir o total de notas para as tarefas. Após o envio dos alunos, você pode dar-lhes notas. Mas, melhor ainda, os professores podem usar a função de comentário privado para elogiar os alunos pessoalmente.<br>O Google fornece uma extensão útil do Google Classroom que permite compartilhar artigos e notícias interessantes para os alunos usando a extensão do Google Sala de aula. Em uma página da web, basta tocar na extensão Google Classroom, escolher uma sala de aula e compartilhar o conteúdo.",
+      "comentarios": [
+        14,
+        15,
+        16
+      ],
+      "id": 2
+    },
+    {
+      "Nome": "Zoom",
+      "Nota": 8,
+      "Categoria": [" ","Videochamada", "Reunioes"],
+      "Dispositivo": [" ",
+        "Computador",
+        "Smartphone"
+      ],
+      "Pago": [" ","Gratuito","PVP","Pago"
+      ],
+      "Descrição": "Zoom é um serviço de videoconferência baseado em nuvem que você pode usar para se encontrar virtualmente com outras pessoas - seja por vídeo ou somente áudio ou ambos, enquanto conduz bate-papos ao vivo.",
+      "img": "https://img.icons8.com/color/452/zoom.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/t6zrzrMbmo8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        20,
+        21,
+        22
+      ],
+      "local": "https://zoom.us/download",
+      "dica": "A gravação das reuniões pode ser útil, principalmente quando se deseja revisitar aquela parte da conversa que foi mais complexa, ou lembrar de algum detalhe importante. No Zoom, a gravação local está disponível para assinantes gratuitos e pagos. Você pode gravar o vídeo e áudio da reunião localmente no computador. Para não sobrecarregar a memória de seu computador, suas gravações podem ser carregadas em um serviço de armazenamento de arquivos como Dropbox ou Google Drive. Há a opção, também, de armazenamento em um serviço de streaming de sua preferência, o YouTube ou o Vímeo.<br> O recurso 'compartilhamento de tela', do Zoom, pode potencializar a colaboração e o entrosamento entre os participantes durante as reuniões.<br>",
+      "Dicas:": "O Zoom é um dos melhores aplicativos para videochamadas, a ferramenta de transmitir tela é muito útil.",
+      "comentarios": [
+        24,
+        25,
+        26
+      ],
+      "id": 3
+    },
+    {
+      "Nome": "Loom",
+      "Nota": 5,
+      "Categoria": [" ","Gravacao"],
+      "Dispositivo": [" ",
+        "Computador",
+        "Smartphone",
+        "Navegador"
+      ],
+      "Pago": [" ","Gratuito","PVP","Pago"
+      ],
+      "Descrição": "Loom é uma plataforma que permite de forma rápida que você grave a tela do seu computador e sua imagem da webcam, e compartilhe esse vídeo em poucos segundos. Ele também permite cortes e edições simples.",
+      "img": "https://media.glassdoor.com/sqll/1684785/loom-squareLogo-1614885965063.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/fUuTRRUV6AI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        30,
+        31,
+        32
+      ],
+      "local": "https://www.loom.com/",
+      "dica": "O Loom é muito útil para gravar vídeos rápidos e curtos, sem precisar subí-los no YouTube ou Google Drive para compartilhá-los.<br>Atenção às configurações de compartilhamento de tela. O Loom permite ao usuário escolher se deseja compartilhar a tela inteira ou apenas uma janela aberta.",
+      "Dicas:": "O Loom é muito útil para gravar vídeos rápidos e curtos, sem precisar subí-los no YouTube ou Google Drive para compartilhá-los.",
+      "comentarios": [
+        34,
+        35,
+        36
+      ],
+      "id": 4
+    },
+    {
+      "Nome": "AprendiZap",
+      "Nota": 7,
+      "Categoria": [" ","Exercicios"],
+      "Dispositivo": [" ",
+        "Smartphone"
+      ],
+      "Pago": [" ","Gratuito"],
+      "Descrição": "Conteúdos e exercícios via Whatsapp, promovida pela Fundação 1Bi com a Fundação Lemann e a Imaginable Futures.",
+      "img": "aprendizap.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/e4PEjcUyhIA' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        40,
+        41,
+        42
+      ],
+      "local": "https://www.aprendizap.com.br/",
+      "dica": "O AprendiZap é útil para conseguir questões e compartilhar em grupos com seus alunos.",
+      "Dicas:": "O AprendiZap é útil para conseguir questões e compartilhar em grupos com seus alunos.",
+      "comentarios": [
+        44,
+        45,
+        46
+      ],
+      "id": 5
+    },
+    {
+      "Nome": "Google Meet",
+      "Nota": 7,
+      "Categoria": [" ","Reunioes","Videochamada"],
+      "Dispositivo": [" ",
+        "Navegador",
+        "Smartphone"
+      ],
+      "Pago": [" ","Gratuito","PVP"],
+      "Descrição": "Google Meet é um serviço de comunicação por vídeo desenvolvido pelo Google, voltado para reuniões profissionais ou educacionais.",
+      "img": "https://www.logo.wine/a/logo/Google_Meet/Google_Meet-Logo.wine.svg",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/Y-ymaYs1oDo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        40,
+        41,
+        42
+      ],
+      "local": "https://apps.google.com/intl/pt-BR/meet/",
+      "dica": "Os convidados podem participar de uma videoconferência on-line no computador usando qualquer navegador da Web moderno. Não é necessário instalar nenhum software. Em dispositivos móveis, eles podem participar usando o app Google Meet.<br>Empresas, escolas e outras organizações podem transmitir reuniões ao vivo para 100 mil espectadores do próprio domínio.<br>As reuniões são seguras por padrão. Os proprietários controlam quem pode participar da reunião, e somente pessoas aprovadas pelo proprietário podem entrar.",
+      "Dicas:": "O AprendiZap é útil para conseguir questões e compartilhar em grupos com seus alunos.",
+      "comentarios": [
+        44,
+        45,
+        46
+      ],
+      "id": 6
+    },
+    {
+      "Nome": "Escola Digital",
+      "Nota": 8,
+      "Categoria": [" ","Recursos"],
+      "Dispositivo": [" ",
+        "Navegador"
+      ],
+      "Pago": [" ","Gratuito"],
+      "Descrição": "Seja para o ensino remoto ou presencial, professores e alunos encontram no acervo milhares de recursos que apoiam as práticas pedagógicas e facilitam o uso de tecnologias.",
+      "img": "escodigi.png",
+      "video": "<iframe width='560' height='515' src='https://www.youtube.com/embed/Y3_Rs7ecWz4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        40,
+        41,
+        42
+      ],
+      "local": "https://escoladigital.org.br/",
+      "dica": "A Escola Digital uma plataforma gratuita de busca que oferece a professores, gestores e redes de ensino mais de 30 mil recursos digitais de aprendizagem, que proporcionam interatividade, dinamismo e inovação às práticas pedagógicas. Uma excelente opção para enriquecer suas aulas com recursos digitais.<br>Encontre o que procura mais rapidamente digitando uma palavra chave no campo de busca ou utilizando os filtros - por disciplina, ano ou tipo de mídia. Além disso, você pode se cadastrar para aproveitar todos os recursos de interação e criação, além de participar do curso a distância disponível gratuitamente para professores e gestores escolares.<br>Acesse o Caderno de Apoio ao Uso do Professor e veja dicas de como usar os recursos de Escola Digital com seus alunos e incluir a tecnologia no seu planejamento pedagógico.<br>Adapte os conteúdos da plataforma de acordo com suas necessidades! Em Ferramentas para Criar você ou seus alunos podem produzir jogos, vídeos, animações e mapas interativos. Você pode se inspirar nos planos de aula já disponíveis, enviar os que criar e ainda preparar atividades para trabalhar com as suas turmas.",
+      "Dicas:": "O AprendiZap é útil para conseguir questões e compartilhar em grupos com seus alunos.",
+      "comentarios": [
+        44,
+        45,
+        46
+      ],
+      "id": 7
+    },
+    {
+      "Nome": "Planboard",
+      "Nota": 8,
+      "Categoria": [" ","Anotacoes"],
+      "Dispositivo": [" ",
+        "Navegador",
+        "Smartphone"
+      ],
+      "Pago": [" ","Gratuito"],
+      "Descrição": "O Planboard é uma ferramenta online, que permite ao professor organizar o cronograma de aulas e de tarefas. A ideia é que o mestre possa montar um planejamento de aulas, com os tópicos que serão abordados em cada uma delas, e possa compartilhar essas informações com outras pessoas.",
+      "img": "https://play-lh.googleusercontent.com/0toHiJ8XIOMSDTSEIZNP34WqtaijuoKd26SxQ0FY7jGFA8qPtMXRujHruHBOSBjFobE=w220-rw",
+      "video": "<p>Ainda não há um tutorial em português, mas estaremos preparando isso.</p><br><iframe width='560' height='515' src='https://www.youtube.com/embed/XntBIzkcd4Y' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+      "funcionalidades": [
+        40,
+        41,
+        42
+      ],
+      "local": "https://www.chalk.com/planboard/",
+      "dica": "Crie aulas com um editor moderno e intuitivo. Adicione arquivos, fotos e vídeos para dar vida às suas aulas. Crie modelos de aulas para reduzir ainda mais o tempo de preparação, para que você possa ir direto ao assunto.<br>Acesse recursos incríveis de seus colegas com apenas alguns cliques. Compartilhe e importe lições diretamente no seu planejador. Arquive e PDF suas aulas para compartilhamento off-line com facilidade.<br>O Planboard está disponível apenas em inglês, porém seu design intuitivo o torna fácil de usar, e a tradução de páginas do Google pode ajudar.",
+      "Dicas:": "O AprendiZap é útil para conseguir questões e compartilhar em grupos com seus alunos.",
+      "comentarios": [
+        44,
+        45,
+        46
+      ],
+      "id": 8
+    }
+  ]
+}
